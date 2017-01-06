@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pretoTextoDescrincao">#262626</color>
+    <color name="txtColorValue">#404040</color>
+    <color name="backgraudIconLogin">#E0E0E0</color>
+    <color name="txtColorHint">#A0A0A0</color>
+    <color name="pretoLinha">#CCC</color>
+    <color name="pretoPreto">#000000</color>
+    <color name="stateColorVerde">#008000</color>
+    <color name="stateColorAzul">#00008B</color>
+    <color name="stateColorCinzento">#A0A0A0</color>
+    <color name="corBranca">#FFFFFF</color>
+    <color name="corAzulEscuro">#2F5597</color>
+    <color name="corButaoPrescionado">#2176f1</color>
+    <color name="corItemSelecionado">#0095FF</color>
+    <color name="corButao">#0062B2</color>
+    <color name="pretoSobreCinza">#666</color>
+    <color name="cinzentoArea">#F2F2F2</color>
+    <color name="cinzentoEscuroBorder">#929292</color>
+    <color name="cinzentoLinha">#e7e7e7</color>
+    <color name="azulCabecalhoTexto">#1F4E79</color>
+    
+    <color name="vermelhoCircular">#EA0D2C</color>
+    <color name="azulCircular">#0095FF</color>
+    <color name="amareloCircular">#FFC20A</color>
+    <color name="verdeCircular">#68B13A</color>
+    <color name="verdeFaturaCocluido">#00B050</color>
+    <color name="backgraoundApp">#0895C8</color>
+    <color name="borderDivice">#95D6EE</color>
+    <color name="initialTextColorLaranja">#CE7F3D</color>
+    <color name="initialTextColorverde">#70B244</color>
+</resources>

@@ -1,0 +1,179 @@
+<resources>
+
+    <!-- Tamanhos geral na aplicacao -->
+    <dimen name="geralMargVerticallayout">20dp</dimen>
+    <dimen name="geralMargHorizontalLayout">40dp</dimen>
+    
+    			<!-- Medidas dos botoes  -->
+    <dimen name="largSmallButtonSubmit">225dp</dimen>
+    <dimen name="btTextSize">30sp</dimen>
+    <dimen name="padingButtonHorizontal">10dp</dimen>
+    <dimen name="padingButtonVertical">20dp</dimen>
+    <dimen name="dimenRadiosButton">10dp</dimen>
+    <dimen name="linhaFina">2dp</dimen>
+     
+    
+        		<!-- Medidas para as listagem -->
+    <dimen name="dividerAltura">2dp</dimen>
+    
+    			<!-- MEDIDAS GERAL PARA OS ICONES -->
+  	<dimen name="iconesAltura">40dp</dimen>
+  	<dimen name="iconesLargura">60dp</dimen>
+ 
+    
+  	
+  				<!-- DIMENSOES A SER APLICADA PARA OS TEXTOS -->
+  	<dimen name="textSizeSmall">20sp</dimen>
+  	
+    
+    			<!-- Dimensao que serão aplicado nos roall back icon -->
+    <dimen name="roalBackAltura">40dp</dimen>
+    <dimen name="roalBackLargura">70dp</dimen>
+    
+    
+    
+    
+    <dimen name="textItemSpinner">18sp</dimen>
+    <dimen name="textSubItemsGroup">24sp</dimen>
+    <dimen name="dividerAlturaListView">4dp</dimen>
+    
+    
+    
+    			<!-- Dimenções a ser aplicada nas caixa de check -->
+    <dimen name="textCheckSize">14pt</dimen>
+    
+    <dimen name="checkDiferenceMin">10dp</dimen>
+    <dimen name="checkDiferenceMax">20dp</dimen>
+    <dimen name="checkAlturaButton">30dp</dimen>
+    <dimen name="checkLarguraButton">30dp</dimen>
+     
+        		<!-- Dimenções a ser aplicadas no spiner -->
+    <dimen name="spinnerPandingValue">3dp</dimen>
+    <dimen name="spinnerPandingItem">7dp</dimen>
+    <dimen name="spinnerPandingValueLeft">20dp</dimen>
+    
+    
+    <!-- Dimensões a ser aplicadas na tela de fiscalizacao -->
+    <dimen name="dimensaoCirculos">35dp</dimen>      
+    <dimen name="circuloBorderFrist">4dp</dimen>      
+    <dimen name="circuloBorderSecond">8dp</dimen>
+    
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <dimen name="afast_groupo">18dp</dimen>
+    <dimen name="afast_groupoDouble">36dp</dimen>
+    <dimen name="tvTextSizeShow">30sp</dimen>
+    <dimen name="tvTextSizeValue">25sp</dimen>
+    
+    <!-- Tamanhos dos valores para o login -->
+    <dimen name="larguraIconLogin">50dp</dimen>
+    <dimen name="dimenImageHeight">250dp</dimen>
+    <dimen name="dimenImageWidth">250dp</dimen>
+    <dimen name="loginPandongBotton">100dp</dimen>
+    
+    
+    <dimen name="textAfastHorizontal">10dp</dimen>
+    <dimen name="textAfastVertical">27dp</dimen>
+    
+    
+    <dimen name="dimenRadiosText">5dp</dimen>
+    <dimen name="dimenRadiosLogo">15dp</dimen>
+    
+    
+        
+    
+    <!-- Essa demiencoes sao aplicadas para o layout ativar user -->
+    <dimen name="textAtivarRazao">40dp</dimen>
+    <dimen name="distPadingRazaoVertical">55dp</dimen>
+    <dimen name="distPadingRazaoHorizaotal">35dp</dimen>
+    <dimen name="distRazaoCredencial">55dp</dimen>
+    
+    
+    <!-- Essas dimensões serao aplicadas a layout fiscalização -->
+    <dimen name="titleGroupHorizontal">10dp</dimen>
+    <dimen name="titleGroupVertical">45dp</dimen>
+    
+    
+    <!-- Essas dimenões serao aplicada ao teclado da aplicaocao -->
+    <dimen name="tecladoAltura">85dp</dimen>
+    <dimen name="tecladoLargura">160dp</dimen>
+    <dimen name="tecladoTextSize">50sp</dimen>
+    <dimen name="tecladoMargens">7dp</dimen>
+    <dimen name="tecladoPanding">4dp</dimen>
+    <dimen name="tecladoTextSizeInput">45sp</dimen>
+    
+    <dimen name="tecladoTextLetraSize">40sp</dimen>
+    <dimen name="tecladoLarguraLetra">100dp</dimen>
+    <dimen name="tecladoAlturaLetra">70dp</dimen>
+    <dimen name="larguraButtonFav">160dp</dimen>
+    <dimen name="favoritsStarDimen">50dp</dimen>
+    
+    
+	<!-- dimençao para a tela de conclusao da fiscalizaçao -->
+	<dimen name="tamanhoTitulo">35sp</dimen>
+	<dimen name="tamanhoSubtitulo">30sp</dimen>
+	<dimen name="padingleft">80dp</dimen>
+	<dimen name="padingtop">40dp</dimen>
+	<dimen name="padingbotton">40dp</dimen>
+	
+	<dimen name="tamanhochechbox">25sp</dimen>
+	
+	
+	
+	<!-- escolha de infraçao - listagem de infraçoes por categotria -->
+	<dimen name="textPadindLeftInfracao">20dp</dimen>
+	<dimen name="textSizeInfracao">20sp</dimen>
+	<dimen name="dimenInfracaoQuandroNum">40dp</dimen>
+	
+	
+	
+	<!--  DIMIENSOES A SER APLICADA PARA OS LAYOUT FISCALIZACAO -->
+	<dimen name="infracaoIconAltura">50dp</dimen>
+	<dimen name="infracaoIconLargura">50dp</dimen>
+	<dimen name="listaInfracaoAfastbentoListBt">50dp</dimen>
+	<dimen name="infracaoAfastamentoEsquerda">50dp</dimen>
+	
+	
+	<dimen name="alturaLinhasNavegacao">3dp</dimen>
+	
+	
+	<dimen name="largura">120dp</dimen>
+	
+	
+	<!--  DIMIENSOES A SER APLICADA PARA OS LAYOUT DE ESCOLHA DE INFRACAO -->
+	
+	
+	<!-- DIMIENSOES A SER APLICADA NA LAYOUT DE FATURA -->
+	<dimen name="alturaFormularioFatura">500dp</dimen>
+	<dimen name="afastametoCaixasFatura">70dp</dimen>
+	<dimen name="faturaTitle">50sp</dimen>
+	<dimen name="faturaItems">40sp</dimen>
+	
+	<!-- ESSAS DIMIESOES SAO PARA SER APLICADA A TELE DE APRESENTACAO -->
+	
+	<dimen name="initialAlturaDivice">140dp</dimen>
+	<dimen name="initialLarguraDivice">140dp</dimen>
+	<dimen name="grosuraBorderDivice">6dp</dimen>
+	<dimen name="grosuraBorderDiviceSecond">12dp</dimen>
+	<dimen name="imageUserAltura">80dp</dimen>
+	<dimen name="imageUserLargura">80dp</dimen>
+	<dimen name="initialAfastamentoDivice">80dp</dimen>
+	<dimen name="textSiseDeveloper">15dp</dimen>
+	<dimen name="initialTextSiseDescricion">25dp</dimen>
+	<dimen name="initialTextPandingDescricion">20dp</dimen>
+	<dimen name="initialPandingDeveloper">15dp</dimen>
+	<dimen name="userTextSiseCod">30dp</dimen>
+	<dimen name="userTextSiseName">15dp</dimen>
+	
+	<dimen name="inicialLarguraDescricao1">300dp</dimen>
+	<dimen name="inicialLarguraDescricao2">340dp</dimen>
+	<dimen name="inicialLarguraDescricao3">390dp</dimen>
+	<dimen name="grosuraUserPlus">39dp</dimen>
+	<dimen name="grosuraUser">35dp</dimen>
+	
+	
+	<dimen  name="grosuraBorderCircular">2dp</dimen>
+	<dimen  name="afastamentoMargemCircular">6dp</dimen>
+	
+</resources>
